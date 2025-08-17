@@ -131,8 +131,9 @@ Twitter URL: ${q}
 ⏱️ *𝙳𝚞𝚛𝚊𝚝𝚒𝚘𝚗:* ${movieData.metadata?.runtime || "𝙽/𝙰"}
 🪀 *𝙲𝚘𝚗𝚝𝚊𝚌𝚝:* - https://wa.me/+94762862143
       
-          *🔗 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺* - 
-          https://chat.whatsapp.com/GNNft24TSMZHkIRDWqXy95?mode=r_c
+          *🔗 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺* -
+          https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
+        
   
         `.trim();
   },
@@ -150,7 +151,7 @@ Twitter URL: ${q}
 🪀 *𝙲𝚘𝚗𝚝𝚊𝚌𝚝:* - https://wa.me/+94762862143
 
           *🔗 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺* -
-          https://chat.whatsapp.com/GNNft24TSMZHkIRDWqXy95?mode=r_c
+           https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
         
         `.trim();
   },
@@ -164,7 +165,7 @@ Twitter URL: ${q}
 🪀 *𝙲𝚘𝚗𝚝𝚊𝚌𝚝:* - https://wa.me/+94762862143
 
           *🔗𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺* -
-          https://chat.whatsapp.com/GNNft24TSMZHkIRDWqXy95?mode=r_c
+          https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
         
         `.trim();
   },
@@ -179,7 +180,7 @@ Twitter URL: ${q}
 🪀 *𝙲𝚘𝚗𝚝𝚊𝚌𝚝:* - https://wa.me/+94762862143
 
           *🔗 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺* -
-          https://chat.whatsapp.com/GNNft24TSMZHkIRDWqXy95?mode=r_c
+          https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
         
         `.trim();
   },
@@ -193,7 +194,7 @@ Twitter URL: ${q}
 🪀 *𝙲𝚘𝚗𝚝𝚊𝚌𝚝:* - https://wa.me/+94762862143
 
           *🔗 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺* -
-          https://chat.whatsapp.com/GNNft24TSMZHkIRDWqXy95?mode=r_c
+          https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
         
         `.trim();
   },
@@ -217,7 +218,7 @@ Twitter URL: ${q}
 🪀 *𝙲𝚘𝚗𝚝𝚊𝚌𝚝:* - https://wa.me/+94762862143
 
           *🔗 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺* - 
-          https://chat.whatsapp.com/GNNft24TSMZHkIRDWqXy95?mode=r_c
+          https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
         
         `.trim();
   },
@@ -253,7 +254,7 @@ Twitter URL: ${q}
 🪀 *𝙲𝚘𝚗𝚝𝚊𝚌𝚝:* - https://wa.me/+94762862143
 
           *🔗 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺* - 
-          https://chat.whatsapp.com/GNNft24TSMZHkIRDWqXy95?mode=r_c
+          https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
         
         `.trim();
   },
@@ -291,7 +292,7 @@ ${description}
 🪀 *𝙲𝚘𝚗𝚝𝚊𝚌𝚝:* - https://wa.me/+94762862143
 
         *🔗 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺* - 
-        https://chat.whatsapp.com/GNNft24TSMZHkIRDWqXy95?mode=r_c
+        https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
         
         `.trim();
   },
