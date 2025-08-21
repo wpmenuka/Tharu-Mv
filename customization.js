@@ -131,7 +131,7 @@ Twitter URL: ${q}
 ⏱️ *𝙳𝚞𝚛𝚊𝚝𝚒𝚘𝚗:* ${movieData.metadata?.runtime || "𝙽/𝙰"}
 🪀 *𝙲𝚘𝚗𝚝𝚊𝚌𝚝:* - https://wa.me/+94762862143
       
-          ◈💃 *ᴊᴏɪɴᴇ ᴜs ➢* https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
+ ◈💃 *ᴊᴏɪɴᴇ ᴜs ➢* https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
           
         
   
@@ -164,8 +164,8 @@ Twitter URL: ${q}
 📅 *𝙳𝚊𝚝𝚎:* ${movieResponse.episodeInfo?.date || "𝙽/𝙰"}
 🪀 *𝙲𝚘𝚗𝚝𝚊𝚌𝚝:* - https://wa.me/+94762862143
 
-          *🔗𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺* -
-          https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
+ ◈💃 *ᴊᴏɪɴᴇ ᴜs ➢* https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t       
+          
         
         `.trim();
   },
@@ -179,8 +179,8 @@ Twitter URL: ${q}
 💾 *Quality:* ${quality.toUpperCase()}
 🪀 *𝙲𝚘𝚗𝚝𝚊𝚌𝚝:* - https://wa.me/+94762862143
 
-          *🔗 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺* -
-          https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
+ ◈💃 *ᴊᴏɪɴᴇ ᴜs ➢* https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t          
+          
         
         `.trim();
   },
@@ -193,8 +193,8 @@ Twitter URL: ${q}
 🌐 *𝙽𝚎𝚝𝚠𝚘𝚛𝚔:* ${movieData.data.network}
 🪀 *𝙲𝚘𝚗𝚝𝚊𝚌𝚝:* - https://wa.me/+94762862143
 
-          *🔗 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺* -
-          https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
+ ◈💃 *ᴊᴏɪɴᴇ ᴜs ➢* https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t          
+          
         
         `.trim();
   },
@@ -217,8 +217,8 @@ Twitter URL: ${q}
 🎞️ *𝚃𝚒𝚝𝚕𝚎:* ${title}  
 🪀 *𝙲𝚘𝚗𝚝𝚊𝚌𝚝:* - https://wa.me/+94762862143
 
-          *🔗 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺* - 
-          https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
+ ◈💃 *ᴊᴏɪɴᴇ ᴜs ➢* https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t          
+          
         
         `.trim();
   },
@@ -240,6 +240,8 @@ Twitter URL: ${q}
 🌍 𝗖𝗼𝘂𝗻𝘁𝗿𝘆:${country}  
 ⏳ 𝗗𝘂𝗿𝗮𝘁𝗶𝗼𝗻:${duration}  
 🪀 *𝙲𝚘𝚗𝚝𝚊𝚌𝚝:* - https://wa.me/+94762862143
+
+ ◈💃 *ᴊᴏɪɴᴇ ᴜs ➢* https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
         
        `.trim();
   },
@@ -252,9 +254,8 @@ Twitter URL: ${q}
 🌍 RATINGS:${rating}  
 ⏳ 𝗗𝘂𝗿𝗮𝘁𝗶𝗼𝗻:${duration}  
 🪀 *𝙲𝚘𝚗𝚝𝚊𝚌𝚝:* - https://wa.me/+94762862143
-
-          *🔗 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺* - 
-          https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
+          
+ ◈💃 *ᴊᴏɪɴᴇ ᴜs ➢* https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t          
         
         `.trim();
   },
