@@ -131,8 +131,8 @@ Twitter URL: ${q}
 ⏱️ *𝙳𝚞𝚛𝚊𝚝𝚒𝚘𝚗:* ${movieData.metadata?.runtime || "𝙽/𝙰"}
 🪀 *𝙲𝚘𝚗𝚝𝚊𝚌𝚝:* - https://wa.me/+94762862143
       
-          *🔗 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺* -
-          https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
+          ◈💃 *ᴊᴏɪɴᴇ ᴜs ➢* https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
+          
         
   
         `.trim();
@@ -150,8 +150,8 @@ Twitter URL: ${q}
 🎭 *𝙶𝚎𝚗𝚛𝚎𝚜:* ${metadata?.genres.map((g) => `#${g}`).join(" • ") || "𝙽/𝙰"} 
 🪀 *𝙲𝚘𝚗𝚝𝚊𝚌𝚝:* - https://wa.me/+94762862143
 
-          *🔗 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺* -
-           https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
+          ◈💃 *ᴊᴏɪɴᴇ ᴜs ➢* https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
+           
         
         `.trim();
   },
