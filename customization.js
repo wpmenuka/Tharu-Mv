@@ -150,7 +150,7 @@ Twitter URL: ${q}
 🎭 *𝙶𝚎𝚗𝚛𝚎𝚜:* ${metadata?.genres.map((g) => `#${g}`).join(" • ") || "𝙽/𝙰"} 
 🪀 *𝙲𝚘𝚗𝚝𝚊𝚌𝚝:* - https://wa.me/+94762862143
 
-          ◈💃 *ᴊᴏɪɴᴇ ᴜs ➢* https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
+ ◈💃 *ᴊᴏɪɴᴇ ᴜs ➢* https://chat.whatsapp.com/KaxztWycPQu1ThMxIac3l3?mode=ac_t
            
         
         `.trim();
